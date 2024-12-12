@@ -92,6 +92,7 @@
   }
   .card .card__title {
     font-size: 18px;
+    line-height: 27px;
   }
 }
 @media (max-width: 600px) {
