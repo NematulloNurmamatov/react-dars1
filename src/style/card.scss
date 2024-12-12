@@ -12,17 +12,14 @@
     margin-top: 20px;
     padding: 20px;
     background-color: #fff;
-
     &__image {
         width: 180px;
         height: auto;
         object-fit: cover;
     }
-
     &__content {
         padding: 16px;
         flex: 1;
-
         .card__title{
             font-size: 24px;
             font-weight: 700;
